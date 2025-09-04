@@ -61,11 +61,11 @@ Currently, I work at **Picis Clinical Solutions**, building healthcare software 
 ![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white) 
 
 ### Architecture & Patterns  
-![DDD](https://img.shields.io/badge/Domain%20Driven%20Design-4B0082?style=for-the-badge)  
+![DDD](https://img.shields.io/badge/DDD-4B0082?style=for-the-badge)  
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-228B22?style=for-the-badge)  
 ![MVVM](https://img.shields.io/badge/MVVM-008080?style=for-the-badge)  
 ![MVC](https://img.shields.io/badge/MVC-1E90FF?style=for-the-badge)  
-![CQRS](https://img.shields.io/badge/Command%20Query%20Responsability%20Segregation-7C0082?style=for-the-badge) 
+![CQRS](https://img.shields.io/badge/CQRS-7C0082?style=for-the-badge) 
 
 ### Databases  
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
