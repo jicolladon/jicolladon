@@ -2,6 +2,7 @@
 
 [![Email](https://img.shields.io/badge/Email-joan.isaac.collado@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:joan.isaac.collado@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joan-isaac-collado-navarro-a8930430/)
+[![GitHub](https://img.shields.io/badge/GitHub-@jicolladon-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jicolladon)
 
 ## 👋 About Me
 
